@@ -42,12 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MTA\Chapter1.cs" />
+    <Compile Include="MTA\Chapter1\Chapter1Examples.cs" />
+    <Compile Include="MTA\Chapter1\Chapter1Overview.cs" />
+    <Compile Include="MTA\Chapter1\Chapter1Scenarios.cs" />
+    <Compile Include="MTA\Chapter2\Chapter2Overview.cs" />
+    <Compile Include="MTA\Chapter3\Chapter3Overview.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
