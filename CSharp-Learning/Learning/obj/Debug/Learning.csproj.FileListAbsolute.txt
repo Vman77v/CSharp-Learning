@@ -1,0 +1,6 @@
+C:\Users\v_via_000\Source\Repos\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\v_via_000\Source\Repos\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\v_via_000\Source\Repos\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\v_via_000\Source\Repos\Learning\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache
+C:\Users\v_via_000\Source\Repos\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\v_via_000\Source\Repos\Learning\Learning\obj\Debug\Learning.pdb
