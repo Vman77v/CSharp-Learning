@@ -59,21 +59,15 @@ namespace Learning.MTA.Chapter1
             }
         }
 
-        public static int Scenario4(int n)
-        {
-            //needs work still arithmetic not setup correctly
+        public static int Scenario4(int n, int digits)
+        {            
             //take in a integer and counts the siginifcant digits in it and uses recursion;         
-            if (n == 1)
-            {
-                //base case
-                return n;
-            }
+            if (n == 0) return digits;
             else
             {
-                //recursive class
-                return n / Scenario4(n/10);
-            }
-
+                //recursive call
+                return Scenario4(n / 10, ++digits);
+            }            
         }
     }
 }

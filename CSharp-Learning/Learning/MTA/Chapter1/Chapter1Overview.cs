@@ -26,8 +26,8 @@ namespace Learning.MTA.Chapter_1
         {
             Chapter1Scenarios.Scenario1(50);
             Chapter1Scenarios.Scenario2(10);
-            Chapter1Scenarios.Scenario3(50, 10);
-            Chapter1Scenarios.Scenario4(20);                
+            Chapter1Scenarios.Scenario3(50, 10);            
+            Chapter1Scenarios.Scenario4(20, 0);                
         }
     }
 }
