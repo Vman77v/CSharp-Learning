@@ -10,3 +10,11 @@ C:\Users\v_via_000\Source\Repos\CSharp-Learning\CSharp-Learning\Learning\bin\Deb
 C:\Users\v_via_000\Source\Repos\CSharp-Learning\CSharp-Learning\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache
 C:\Users\v_via_000\Source\Repos\CSharp-Learning\CSharp-Learning\Learning\obj\Debug\Learning.exe
 C:\Users\v_via_000\Source\Repos\CSharp-Learning\CSharp-Learning\Learning\obj\Debug\Learning.pdb
+C:\Personal\CSharp-Learning\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache
+C:\Personal\CSharp-Learning\Learning\obj\Debug\Learning.exe
+C:\Personal\CSharp-Learning\Learning\obj\Debug\Learning.pdb
+C:\Personal\CSharp-Learning\Learning\bin\Debug\Learning.exe.config
+C:\Personal\CSharp-Learning\Learning\bin\Debug\Learning.exe
+C:\Personal\CSharp-Learning\Learning\bin\Debug\Learning.pdb
+C:\Personal\CSharp-Learning\Learning\bin\Debug\nunit.framework.dll
+C:\Personal\CSharp-Learning\Learning\bin\Debug\nunit.framework.xml

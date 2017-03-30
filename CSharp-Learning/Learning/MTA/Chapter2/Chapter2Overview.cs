@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Learning.MTA.Chapter2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +11,13 @@ namespace Learning.MTA.Chapter_2
     {
         public static void MTAChap2()
         {
-            //Example problems in the book            
-        }
-
-        public static void MTAScenario2()
-        {
-            //Scenario Examples in the book
+            Rectangle rect = new Rectangle()
+            {
+                Length = 10.0,
+                Width = 20.0
+            };
+            double area = rect.GetArea();
+            Console.WriteLine("Area of Rectangle : " + area);                              
         }
     }
 }
