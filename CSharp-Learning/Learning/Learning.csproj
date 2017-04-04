@@ -58,6 +58,8 @@
     <Compile Include="MTA\Chapter3\Chapter3Overview.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TESTS\BitCounting.cs" />
+    <Compile Include="TESTS\BitCountingTests.cs" />
     <Compile Include="TESTS\Outlier.cs" />
     <Compile Include="TESTS\OutlierTest.cs" />
   </ItemGroup>
